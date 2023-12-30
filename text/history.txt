@@ -1,0 +1,775 @@
+ss:log in//<SEARCH WITH CATEGORY>//go back to<HOME PAGE>//<SEARCH WITH CATEGORY>//
+
+ss:log in//<SEARCH WITH CATEGORY>//
+
+ss:log in//<SEARCH WITH CATEGORY>//<SEARCH WITH CATEGORY>//
+
+ss:log in//<SEARCH WITH CATEGORY>//
+
+ss:log in//<SEARCH WITH CATEGORY>//<SEARCH WITH CATEGORY>//
+
+ss:log in//<SEARCH WITH CATEGORY>//
+
+ss:log in//go back to<HOME PAGE>//go to <RECOMMENDATION>//
+
+ss:log in//go to <TICKETS>//go to <BUY TICKET>//
+
+ss:log in//go back to<HOME PAGE>//go to <TICKETS>//go to <BUY TICKET>//
+
+ss:log in//go to <TICKETS>//<PRINT TICKET HISTORY>//go to <BUY TICKET>//
+
+ss:log in//go to <TICKETS>//go to <BUY TICKET>//[buy ticket :Leon  STARY SKY CINEMA  H]go to <GET A REFUND FOR A TICKET>//
+
+ss:log in//go to <TICKETS>//go to <GET A REFUND FOR A TICKET>//
+
+ss:log in//go to <TICKETS>//go to <GET A REFUND FOR A TICKET>//[refund for tickets:Leon/STARY SKY CINEMA/H]
+<PRINT TICKET HISTORY>//go back to <ALL FILMS>//go to <VIP>//go to <RECOMMENDATION>//
+
+ss:log in//<PRINT FILMS LIST>//<SORT BY RATINGS>//<SORT BY NAMES>//<SEARCH WITH CATEGORY>//<SEARCH WITH CATEGORY>//<SEARCH WITH LEADING ROLES>//<DETAILS>//close Leon and go back to <ALL FILMS>//<DETAILS>//go to <BUY TICKETS> page of Inception//
+
+ss:log in//<DETAILS>//go to <BUY TICKETS> page of Inception//
+
+ss:log in//go to <TICKETS>//<PRINT TICKET HISTORY>//
+
+ss:log in//go back to<HOME PAGE>//go to <CHANGE PASSWORD>//change password//go to <CHANGE ID>//change id to--->s//
+s:id changed// go to <TICKETS>//<PRINT TICKET HISTORY>//
+
+s:log in//go to <TICKETS>//<PRINT TICKET HISTORY>//
+
+s:log in//go to <CHANGE ID>//change id to--->ss//
+ss:id changed// go to <TICKETS>//<PRINT TICKET HISTORY>//
+
+s:log in//go to <CHANGE ID>//change id to--->ss//
+ss:id changed// 
+
+s:log in//go to <CHANGE ID>//
+
+s:log in//go to <CHANGE ID>//
+
+s:log in//go to <CHANGE ID>//
+
+s:log in//go to <CHANGE ID>//
+
+s:log in//go to <CHANGE ID>//change id to--->ss//
+ss:id changed// go to <CHANGE PASSWORD>//change password//go to <TICKETS>//<PRINT TICKET HISTORY>//go to <GET A REFUND FOR A TICKET>//[refund for tickets:Leon/STARY SKY CINEMA/H]
+<PRINT TICKET HISTORY>//go to <GET A REFUND FOR A TICKET>//
+
+ss:log in//go to <TICKETS>//<PRINT TICKET HISTORY>//go to <BUY TICKET>//
+
+ss:log in//<PRINT FILMS LIST>//<SORT BY RATINGS>//<SORT BY NAMES>//<SEARCH WITH CATEGORY>//
+
+ss:log in//<SEARCH WITH CATEGORY>//
+
+ss:log in//<SEARCH WITH CATEGORY>//
+
+ss:log in//<PRINT FILMS LIST>//<SORT BY RATINGS>//<SORT BY NAMES>//<SEARCH WITH CATEGORY>//<SEARCH WITH CATEGORY>//<SEARCH WITH CATEGORY>//<SEARCH WITH LEADING ROLES>//
+
+ss:log in//<SEARCH WITH LEADING ROLES>//<SEARCH WITH LEADING ROLES>//<SORT BY NAMES>//<SEARCH WITH CATEGORY>//
+
+ss:log in//go to <CHANGE ID>//change id to--->s//
+s:id changed// go to <VIP>//go to <PRINT FAVORITES>//
+
+s:log in//go to <CHANGE ID>//change id to--->as//
+as:id changed// 
+
+as:log in//go to <CHANGE ID>//change id to--->asc//
+asc:id changed// 
+
+asc:log in//go to <CHANGE ID>//change id to--->ss//
+ss:id changed// 
+
+ss:log in//go to <CHANGE ID>//change id to--->acs//
+acs:id changed// go to <CHANGE ID>//change id to--->ss//
+ss:id changed// go to <VIP>//go to <PRINT FAVORITES>//go to <TICKETS>//<PRINT TICKET HISTORY>//go back to <ALL FILMS>//go back to <ME>//go to <TICKETS>//<PRINT TICKET HISTORY>//go back to <ALL FILMS>//go back to <ME>//<DETAILS>//close Leon and go back to <ALL FILMS>//<DETAILS>//add Titanic to <FAVORITES>//<DETAILS>//add Titanic to <FAVORITES>//<DETAILS>//go to <BUY TICKETS> page of Titanic//[buy ticket :Titanic  PARADISE CINEMA   R]go back to<HOME PAGE>//go to <PRINT FAVORITES>//go back to <ME>//<DETAILS>//close Leon and go back to <ALL FILMS>//go back to<HOME PAGE>//go to <TICKETS>//go to <GET A REFUND FOR A TICKET>//
+
+ss:log in//go to <PRINT FAVORITES>//go back to <ME>//<DETAILS>//add Titanic to <FAVORITES>//<DETAILS>//close Titanic and go back to <ALL FILMS>//<DETAILS>//add The Legend of 1900 to <FAVORITES>//<DETAILS>//close The Legend of 1900 and go back to <ALL FILMS>//
+
+ss:log in//<DETAILS>//close Leon and go back to <ALL FILMS>//<DETAILS>//close Inception and go back to <ALL FILMS>//<SEARCH WITH LEADING ROLES>//<SEARCH WITH CATEGORY>//<SORT BY NAMES>//go back to<HOME PAGE>//go to <TICKETS>//<PRINT TICKET HISTORY>//go back to <ALL FILMS>//go to <RECOMMENDATION>//go to <RECOMMENDATION>//
+
+ss:log in//go to <PRINT FAVORITES>//go to <RECOMMENDATION>//
+
+ss:log in//go to <RECOMMENDATION>//
+
+ss:log in//go to <RECOMMENDATION>//
+
+ss:log in//go to <RECOMMENDATION>//
+
+ss:log in//go to <RECOMMENDATION>//
+
+ss:log in//go to <RECOMMENDATION>//
+
+ss:log in//go to <RECOMMENDATION>//
+
+ss:log in//<SEARCH WITH CATEGORY>//<SEARCH WITH LEADING ROLES>//
+
+ss:log in//go to <PRINT FAVORITES>//go to <RECOMMENDATION>//
+
+ss:log in//<PRINT FILMS LIST>//<SORT BY RATINGS>//<SEARCH WITH CATEGORY>//go back to<HOME PAGE>//go to <VIP>//go to <RECOMMENDATION>//go to <RECOMMENDATION>//
+
+ss:log in//go to <RECOMMENDATION>//
+
+ss:log in//go to <RECOMMENDATION>//
+
+ss:log in//go to <RECOMMENDATION>//
+
+ss:log in//go to <RECOMMENDATION>//
+
+ss:log in//go to <RECOMMENDATION>//
+
+ss:log in//go to <RECOMMENDATION>//
+
+ss:log in//go to <RECOMMENDATION>//
+
+ss:log in//go to <RECOMMENDATION>//
+
+ss:log in//go to <RECOMMENDATION>//
+
+ss:log in//go to <RECOMMENDATION>//go back to <ME>//log out//
+
+
+
+ss:log in//go to <TICKETS>//<PRINT TICKET HISTORY>//go back to <ALL FILMS>//go back to <ME>//<DETAILS>//
+
+ss:log in//<DETAILS>//
+
+ss:log in//<DETAILS>//go to <BUY TICKETS> page of Leon//[buy ticket :Leon  PARADISE CINEMA   W]<DETAILS>//go to <BUY TICKETS> page of Leon//[buy ticket :Leon  PARADISE CINEMA   R]<DETAILS>//go to <BUY TICKETS> page of Leon//[buy ticket :Leon  PARADISE CINEMA   U]go back to<HOME PAGE>//go to <TICKETS>//<PRINT TICKET HISTORY>//go to <GET A REFUND FOR A TICKET>//[refund for tickets:Leon/PARADISE CINEMA/U]
+
+
+ss:log in//go to <TICKETS>//go to <GET A REFUND FOR A TICKET>//
+
+ss:log in//go to <TICKETS>//go to <GET A REFUND FOR A TICKET>//[refund for tickets:Leon/PARADISE CINEMA/R]
+<PRINT TICKET HISTORY>//go to <BUY TICKET>//
+
+ss:log in//go back to<HOME PAGE>//go to <TICKETS>//go to <GET A REFUND FOR A TICKET>//
+
+ss:log in//go to <TICKETS>//go to <GET A REFUND FOR A TICKET>//[refund for tickets:Leon/PARADISE CINEMA/W]
+<PRINT TICKET HISTORY>//go back to <ALL FILMS>//go to <VIP>//go to <RECOMMENDATION>//go to <PRINT FAVORITES>//go to <TICKETS>//go to <BUY TICKET>//[buy ticket :Inception  MIDNIGHT CINEMA   M]<PRINT TICKET HISTORY>//go back to <ALL FILMS>//go back to <ME>//<PRINT FILMS LIST>//<SORT BY RATINGS>//<SORT BY NAMES>//<SEARCH WITH CATEGORY>//
+
+ss:log in//<SEARCH WITH CATEGORY>//
+
+ss:log in//<SEARCH WITH CATEGORY>//<SEARCH WITH CATEGORY>//
+
+ss:log in//<SEARCH WITH CATEGORY>//
+
+ss:log in//<SEARCH WITH CATEGORY>//
+
+ss:log in//<SEARCH WITH CATEGORY>//<SEARCH WITH CATEGORY>//
+
+ss:log in//<SEARCH WITH CATEGORY>//
+
+ss:log in//<SEARCH WITH CATEGORY>//<SEARCH WITH CATEGORY>//
+
+ss:log in//<SEARCH WITH CATEGORY>//<SEARCH WITH CATEGORY>//<SEARCH WITH CATEGORY>//<SEARCH WITH CATEGORY>//<SEARCH WITH CATEGORY>//<SEARCH WITH LEADING ROLES>//
+
+ss:log in//<SEARCH WITH CATEGORY>//<SEARCH WITH CATEGORY>//<SEARCH WITH CATEGORY>//<SEARCH WITH CATEGORY>//<SEARCH WITH CATEGORY>//<SEARCH WITH CATEGORY>//<SEARCH WITH CATEGORY>//<SEARCH WITH CATEGORY>//<SEARCH WITH LEADING ROLES>//<SEARCH WITH LEADING ROLES>//
+
+ss:log in//<SEARCH WITH LEADING ROLES>//<SEARCH WITH LEADING ROLES>//<SEARCH WITH LEADING ROLES>//
+
+ss:log in//<SEARCH WITH LEADING ROLES>//<SEARCH WITH LEADING ROLES>//
+
+ss:log in//<SEARCH WITH LEADING ROLES>//<SEARCH WITH LEADING ROLES>//<SEARCH WITH LEADING ROLES>//<SEARCH WITH LEADING ROLES>//<DETAILS>//add The Legend of 1900 to <FAVORITES>//<DETAILS>//close The Legend of 1900 and go back to <ALL FILMS>//go back to<HOME PAGE>//go to <TICKETS>//go to <GET A REFUND FOR A TICKET>//
+
+ss:log in//go to <TICKETS>//go to <GET A REFUND FOR A TICKET>//
+
+ss:log in//go to <TICKETS>//<PRINT TICKET HISTORY>//go to <GET A REFUND FOR A TICKET>//[refund for tickets:Inception/MIDNIGHT CINEMA/M]
+<PRINT TICKET HISTORY>//
+
+ss:log in//<DETAILS>//go to <BUY TICKETS> page of Schindler's List//[buy ticket :Schindler's List  MIDNIGHT CINEMA   M]<PRINT FILMS LIST>//<SORT BY RATINGS>//<SORT BY NAMES>//<SEARCH WITH CATEGORY>//<SEARCH WITH CATEGORY>//<SEARCH WITH CATEGORY>//<SEARCH WITH CATEGORY>//<SEARCH WITH CATEGORY>//<SEARCH WITH CATEGORY>//<SEARCH WITH CATEGORY>//<SEARCH WITH CATEGORY>//<SEARCH WITH CATEGORY>//<SEARCH WITH CATEGORY>//<SEARCH WITH LEADING ROLES>//<SEARCH WITH LEADING ROLES>//<SEARCH WITH LEADING ROLES>//<SEARCH WITH LEADING ROLES>//<SEARCH WITH LEADING ROLES>//<SEARCH WITH LEADING ROLES>//<SEARCH WITH LEADING ROLES>//<SEARCH WITH LEADING ROLES>//
+
+ss:log in//<SEARCH WITH LEADING ROLES>//<SEARCH WITH LEADING ROLES>//
+
+ss:log in//<SEARCH WITH LEADING ROLES>//<SEARCH WITH LEADING ROLES>//<SEARCH WITH LEADING ROLES>//go back to<HOME PAGE>//log out//
+
+
+
+ss:log in//log out//
+
+[new user account created]Zhang Tianruo//
+
+Zhang Tianruo:log in//<PRINT FILMS LIST>//<SORT BY RATINGS>//<SORT BY NAMES>//<SEARCH WITH CATEGORY>//<SEARCH WITH CATEGORY>//<SEARCH WITH CATEGORY>//<SEARCH WITH CATEGORY>//<SEARCH WITH CATEGORY>//<SEARCH WITH CATEGORY>//<SEARCH WITH CATEGORY>//<SEARCH WITH CATEGORY>//<SEARCH WITH CATEGORY>//<SEARCH WITH CATEGORY>//<SEARCH WITH CATEGORY>//<SEARCH WITH CATEGORY>//<SEARCH WITH LEADING ROLES>//go back to<HOME PAGE>//log out//
+
+
+
+ss:log in//<PRINT FILMS LIST>//<SORT BY RATINGS>//<SORT BY NAMES>//<SEARCH WITH LEADING ROLES>//
+
+ss:log in//<PRINT FILMS LIST>//<SORT BY RATINGS>//<SORT BY NAMES>//
+
+ss:log in//<PRINT FILMS LIST>//<SORT BY RATINGS>//<SORT BY NAMES>//<SEARCH WITH CATEGORY>//
+
+ss:log in//<PRINT FILMS LIST>//<SORT BY RATINGS>//<SORT BY NAMES>//<SEARCH WITH CATEGORY>//<SEARCH WITH CATEGORY>//<SEARCH WITH CATEGORY>//<SEARCH WITH CATEGORY>//<SEARCH WITH CATEGORY>//<SEARCH WITH CATEGORY>//<SEARCH WITH CATEGORY>//<SEARCH WITH CATEGORY>//<SEARCH WITH LEADING ROLES>//<SEARCH WITH LEADING ROLES>//<SEARCH WITH LEADING ROLES>//<SEARCH WITH LEADING ROLES>//<DETAILS>//close Leon and go back to <ALL FILMS>//<DETAILS>//go to <BUY TICKETS> page of Leon//[buy ticket :Leon  PARADISE CINEMA   P]<DETAILS>//close The Legend of 1900 and go back to <ALL FILMS>//<DETAILS>//go to <BUY TICKETS> page of Leon//[buy ticket :Leon  PARADISE CINEMA   Q]<DETAILS>//go to <BUY TICKETS> page of Leon//[buy ticket :Leon  PARADISE CINEMA   R]<DETAILS>//
+
+ss:log in//<PRINT FILMS LIST>//<DETAILS>//close Leon and go back to <ALL FILMS>//<SEARCH WITH CATEGORY>//<SEARCH WITH CATEGORY>//<SEARCH WITH CATEGORY>//<SEARCH WITH CATEGORY>//<SEARCH WITH CATEGORY>//<SEARCH WITH CATEGORY>//<SEARCH WITH CATEGORY>//<SEARCH WITH CATEGORY>//<SEARCH WITH CATEGORY>//<SEARCH WITH CATEGORY>//<SEARCH WITH CATEGORY>//<SEARCH WITH CATEGORY>//<SEARCH WITH LEADING ROLES>//<SEARCH WITH LEADING ROLES>//<SEARCH WITH LEADING ROLES>//<DETAILS>//close The Legend of 1900 and go back to <ALL FILMS>//<DETAILS>//close Schindler's List and go back to <ALL FILMS>//go back to<HOME PAGE>//log out//
+
+
+
+ss:log in//<PRINT FILMS LIST>//<PRINT FILMS LIST>//<SORT BY RATINGS>//
+
+ss:log in//<PRINT FILMS LIST>//<DETAILS>//close LEON and go back to <ALL FILMS>//go back to<HOME PAGE>//log out//
+
+
+
+ss:log in//<PRINT FILMS LIST>//<DETAILS>//close The Legend of 1900 and go back to <ALL FILMS>//<SORT BY NAMES>//<DETAILS>//close LEON and go back to <ALL FILMS>//
+
+ss:log in//log out//
+
+
+
+ss:log in//log out//
+
+
+
+ss:log in//log out//
+
+go back to<HOME PAGE>//log out//
+
+
+
+ss:log in//log out//
+
+
+
+ss:log in//log out//
+
+
+
+ss:log in//go to <CHANGE ID>//change id to--->S//
+S:id changed// go to <CHANGE PASSWORD>//change password//go back to <ME>//log out//
+
+
+
+S:log in//log out//
+
+
+
+S:log in//go to <TICKETS>//go to <GET A REFUND FOR A TICKET>//[refund for tickets:Leon/PARADISE CINEMA/P]
+<PRINT TICKET HISTORY>//go to <BUY TICKET>//
+
+S:log in//<PRINT FILMS LIST>//go back to<HOME PAGE>//go to <TICKETS>//go to <BUY TICKET>//
+
+S:log in//go to <TICKETS>//go to <GET A REFUND FOR A TICKET>//[refund for tickets:Leon/PARADISE CINEMA/P]
+go to <GET A REFUND FOR A TICKET>//[refund for tickets:Leon/PARADISE CINEMA/Q]
+go to <BUY TICKET>//
+
+S:log in//go to <TICKETS>//go to <GET A REFUND FOR A TICKET>//
+
+S:log in//go to <TICKETS>//go to <GET A REFUND FOR A TICKET>//[refund for tickets:Leon/PARADISE CINEMA/R]
+<PRINT TICKET HISTORY>//go back to <ALL FILMS>//go to <TICKETS>//go to <BUY TICKET>//
+
+S:log in//go to <TICKETS>//go to <BUY TICKET>//
+
+S:log in//<PRINT FILMS LIST>//<SORT BY RATINGS>//<SORT BY NAMES>//<SEARCH WITH CATEGORY>//
+
+S:log in//<PRINT FILMS LIST>//<SORT BY RATINGS>//<SORT BY NAMES>//<SEARCH WITH CATEGORY>//
+
+S:log in//<SEARCH WITH CATEGORY>//
+
+S:log in//<SEARCH WITH CATEGORY>//
+
+S:log in//<SEARCH WITH CATEGORY>//
+
+S:log in//<SEARCH WITH CATEGORY>//
+
+S:log in//go back to <ME>//<SEARCH WITH CATEGORY>//
+
+S:log in//<SEARCH WITH CATEGORY>//<SEARCH WITH CATEGORY>//<SEARCH WITH CATEGORY>//
+
+S:log in//<SEARCH WITH CATEGORY>//
+
+S:log in//<SEARCH WITH CATEGORY>//<SEARCH WITH CATEGORY>//<SEARCH WITH CATEGORY>//
+
+S:log in//<SEARCH WITH LEADING ROLES>//<SEARCH WITH LEADING ROLES>//<SEARCH WITH LEADING ROLES>//go back to<HOME PAGE>//log out//
+
+
+
+S:log in//<SEARCH WITH LEADING ROLES>//<SEARCH WITH LEADING ROLES>//<SEARCH WITH LEADING ROLES>//go back to<HOME PAGE>//log out//
+
+
+
+S:log in//go to <RECOMMENDATION>//
+
+S:log in//go to <RECOMMENDATION>//
+
+S:log in//go to <RECOMMENDATION>//
+
+S:log in//go to <RECOMMENDATION>//
+
+S:log in//go to <RECOMMENDATION>//
+
+S:log in//go to <RECOMMENDATION>//
+
+S:log in//go to <RECOMMENDATION>//
+
+S:log in//go to <RECOMMENDATION>//
+
+S:log in//go to <RECOMMENDATION>//
+
+S:log in//go to <RECOMMENDATION>//
+
+S:log in//go to <RECOMMENDATION>//
+
+S:log in//go to <RECOMMENDATION>//
+
+S:log in//go to <RECOMMENDATION>//
+
+S:log in//go to <RECOMMENDATION>//
+
+S:log in//go to <RECOMMENDATION>//
+
+S:log in//go to <RECOMMENDATION>//
+
+S:log in//go to <RECOMMENDATION>//
+
+S:log in//go to <RECOMMENDATION>//
+
+S:log in//<SEARCH WITH CATEGORY>//
+
+S:log in//go to <RECOMMENDATION>//go back to <ME>//<SEARCH WITH CATEGORY>//
+
+S:log in//go to <RECOMMENDATION>//
+
+S:log in//go to <RECOMMENDATION>//
+
+S:log in//
+
+S:log in//go to <RECOMMENDATION>//
+
+S:log in//go to <RECOMMENDATION>//
+
+S:log in//go to <RECOMMENDATION>//
+
+S:log in//go to <RECOMMENDATION>//
+
+S:log in//go to <RECOMMENDATION>//
+
+S:log in//go to <RECOMMENDATION>//go to <CHANGE ID>//change id to--->s//
+s:id changed// go to <CHANGE PASSWORD>//change password//go to <RECOMMENDATION>//
+
+s:log in//go to <RECOMMENDATION>//
+
+s:log in//go to <RECOMMENDATION>//
+
+s:log in//go to <RECOMMENDATION>//go to <RECOMMENDATION>//
+
+s:log in//go to <RECOMMENDATION>//
+
+s:log in//go to <RECOMMENDATION>//
+
+s:log in//go to <RECOMMENDATION>//
+
+s:log in//go to <RECOMMENDATION>//
+
+s:log in//go to <RECOMMENDATION>//
+
+s:log in//go to <RECOMMENDATION>//
+
+s:log in//<DETAILS>//close Leon and go back to <ALL FILMS>//go back to<HOME PAGE>//
+
+s:log in//<DETAILS>//[new user account created]czy//become VIP//
+
+czy:log in//<PRINT FILMS LIST>//<PRINT FILMS LIST>//<SORT BY RATINGS>//<SORT BY NAMES>//<SEARCH WITH CATEGORY>//<DETAILS>//
+
+s:log in//<DETAILS>//close Leon and go back to <ALL FILMS>//<SEARCH WITH LEADING ROLES>//go back to<HOME PAGE>//go to <RECOMMENDATION>//go to <VIP>//go to <TICKETS>//<PRINT TICKET HISTORY>//go back to <ALL FILMS>//go to <PRINT FAVORITES>//go back to <ME>//log out//
+
+[new user account created]a//
+
+a:log in//<DETAILS>//add Leon to <FAVORITES>//<SEARCH WITH CATEGORY>//<SEARCH WITH LEADING ROLES>//go back to<HOME PAGE>//go to <RECOMMENDATION>//go to <RECOMMENDATION>//[new user account created]Q//
+
+Q:log in//<PRINT FILMS LIST>//<SORT BY RATINGS>//
+
+Q:log in//<PRINT FILMS LIST>//<SORT BY RATINGS>//<SORT BY NAMES>//<SEARCH WITH CATEGORY>//<SEARCH WITH CATEGORY>//<SEARCH WITH CATEGORY>//<SEARCH WITH LEADING ROLES>//<SEARCH WITH LEADING ROLES>//<SEARCH WITH CATEGORY>//<SEARCH WITH CATEGORY>//<SEARCH WITH CATEGORY>//<DETAILS>//close Leon and go back to <ALL FILMS>//<DETAILS>//close Titanic and go back to <ALL FILMS>//<DETAILS>//add The Legend of 1900 to <FAVORITES>//<DETAILS>//close The Legend of 1900 and go back to <ALL FILMS>//<DETAILS>//go to <BUY TICKETS> page of The Legend of 1900//[buy ticket :The Legend of 1900  PARADISE CINEMA   M]go back to<HOME PAGE>//go to <CHANGE PASSWORD>//change password//go to <CHANGE ID>//change id to--->QQ//
+QQ:id changed// go to <TICKETS>//<PRINT TICKET HISTORY>//go to <BUY TICKET>//
+
+QQ:log in//go to <TICKETS>//go to <BUY TICKET>//[buy ticket :The Legend of 1900  PARADISE CINEMA   R]<PRINT TICKET HISTORY>//go to <GET A REFUND FOR A TICKET>//[refund for tickets:The Legend of 1900/PARADISE CINEMA/M]
+<PRINT TICKET HISTORY>//<PRINT TICKET HISTORY>//go to <BUY TICKET>//
+
+QQ:log in//<PRINT FILMS LIST>//<SORT BY RATINGS>//<SORT BY NAMES>//<SEARCH WITH CATEGORY>//<SEARCH WITH LEADING ROLES>//<DETAILS>//close Leon and go back to <ALL FILMS>//go back to<HOME PAGE>//go to <TICKETS>//go to <BUY TICKET>//
+
+QQ:log in//go back to<HOME PAGE>//go to <TICKETS>//go back to <ALL FILMS>//go back to <ME>//<DETAILS>//close Leon and go back to <ALL FILMS>//go back to<HOME PAGE>//log out//
+
+
+
+s:log in//go back to<HOME PAGE>//
+
+s:log in//<PRINT FILMS LIST>//<SORT BY RATINGS>//<SORT BY NAMES>//<DETAILS>//close Leon and go back to <ALL FILMS>//go back to<HOME PAGE>//go to <TICKETS>//go back to <ALL FILMS>//go to <RECOMMENDATION>//go to <VIP>//go to <PRINT FAVORITES>//go back to <ME>//log out//
+
+
+
+a:log in//go back to <ME>//<DETAILS>//go to <BUY TICKETS> page of Leon//[buy ticket :Leon  PARADISE CINEMA   V]go back to<HOME PAGE>//log out//
+
+
+
+s:log in//go to <CHANGE ID>//
+
+[new user account created]Q//
+
+QQ:log in//go to <CHANGE ID>//
+
+Q:log in//go to <CHANGE ID>//
+
+Q:log in//go to <CHANGE ID>//
+
+Q:log in//go to <CHANGE ID>//change id to--->S//
+S:id changed// go to <CHANGE PASSWORD>//
+
+APPLE:log in//<PRINT FILMS LIST>//<SORT BY RATINGS>//<SORT BY NAMES>//<SEARCH WITH CATEGORY>//<SEARCH WITH CATEGORY>//<SEARCH WITH CATEGORY>//<SEARCH WITH LEADING ROLES>//<DETAILS>//close Leon and go back to <ALL FILMS>//<DETAILS>//go to <BUY TICKETS> page of Leon//[buy ticket :Leon  PARADISE CINEMA   W]go back to<HOME PAGE>//go to <CHANGE ID>//change id to--->apple//
+apple:id changed// go to <CHANGE ID>//
+
+apple:log in//go to <CHANGE ID>//
+
+apple:log in//go to <CHANGE ID>//change id to--->APPLE//
+APPLE:id changed// go to <CHANGE PASSWORD>//change password//go to <TICKETS>//<PRINT TICKET HISTORY>//go to <GET A REFUND FOR A TICKET>//
+
+APPLE:log in//go to <TICKETS>//go to <GET A REFUND FOR A TICKET>//[refund for tickets:Leon/PARADISE CINEMA/W]
+<PRINT TICKET HISTORY>//
+
+APPLE:log in//go to <TICKETS>//go to <BUY TICKET>//[buy ticket :Leon  PARADISE CINEMA   W]go to <GET A REFUND FOR A TICKET>//[refund for tickets:Leon/PARADISE CINEMA/W]
+<PRINT TICKET HISTORY>//go back to <ALL FILMS>//go back to <ME>//log out//
+
+
+
+[new user account created]ZTR//become VIP//
+
+ZTR:log in//<PRINT FILMS LIST>//<SORT BY RATINGS>//<SORT BY NAMES>//<SEARCH WITH CATEGORY>//<SEARCH WITH CATEGORY>//<SEARCH WITH CATEGORY>//<SEARCH WITH LEADING ROLES>//<DETAILS>//add The Legend of 1900 to <FAVORITES>//<DETAILS>//go to <BUY TICKETS> page of The Legend of 1900//[buy ticket :The Legend of 1900  PARADISE CINEMA   w]go back to<HOME PAGE>//go to <TICKETS>//<PRINT TICKET HISTORY>//go back to <ALL FILMS>//go to <TICKETS>//<PRINT TICKET HISTORY>//go to <GET A REFUND FOR A TICKET>//[refund for tickets:The Legend of 1900/PARADISE CINEMA/R]
+<PRINT TICKET HISTORY>//go back to <ALL FILMS>//go to <RECOMMENDATION>//
+
+[new user account created]ZTR//become VIP//
+
+ZTR:log in//go back to <ME>//<PRINT FILMS LIST>//<SORT BY RATINGS>//<SORT BY NAMES>//<SEARCH WITH CATEGORY>//<SEARCH WITH CATEGORY>//<SEARCH WITH LEADING ROLES>//<DETAILS>//add The Legend of 1900 to <FAVORITES>//go back to<HOME PAGE>//go to <RECOMMENDATION>//go to <PRINT FAVORITES>//
+
+[new user account created]ZTR//become VIP//
+
+ZTR:log in//<PRINT FILMS LIST>//<SORT BY RATINGS>//<SORT BY NAMES>//<SEARCH WITH CATEGORY>//<SEARCH WITH CATEGORY>//<SEARCH WITH CATEGORY>//<SEARCH WITH CATEGORY>//<SEARCH WITH LEADING ROLES>//<DETAILS>//add The Legend of 1900 to <FAVORITES>//close The Legend of 1900 and go back to <ALL FILMS>//go back to<HOME PAGE>//go to <TICKETS>//<PRINT TICKET HISTORY>//go back to <ALL FILMS>//go to <VIP>//go to <RECOMMENDATION>//go to <RECOMMENDATION>//go to <PRINT FAVORITES>//
+
+[new user account created]A//
+
+A:log in//<SEARCH WITH CATEGORY>//<SEARCH WITH CATEGORY>//
+
+[new user account created]a//
+
+a:log in//<SEARCH WITH CATEGORY>//go back to<HOME PAGE>//go to <CHANGE ID>//change id to--->ss//
+ss:id changed// go back to <ME>//log out//
+
+
+
+[new user account created]q//
+
+q:log in//go back to <ME>//<SEARCH WITH CATEGORY>//
+
+q:log in//go back to <ME>//<SEARCH WITH LEADING ROLES>//go back to<HOME PAGE>//log out//
+
+
+
+[new user account created]shit//
+
+shit:log in//<SEARCH WITH CATEGORY>//<SEARCH WITH CATEGORY>//<SEARCH WITH CATEGORY>//<SEARCH WITH LEADING ROLES>//go back to<HOME PAGE>//go to <RECOMMENDATION>//go to <PRINT FAVORITES>//
+
+shit:log in//<PRINT FILMS LIST>//<SORT BY RATINGS>//<SORT BY NAMES>//<DETAILS>//add Leon to <FAVORITES>//close Leon and go back to <ALL FILMS>//<DETAILS>//go to <BUY TICKETS> page of The Legend of 1900//[buy ticket :The Legend of 1900  PARADISE CINEMA   R]go back to<HOME PAGE>//go to <CHANGE ID>//change id to--->APP//
+APP:id changed// go to <CHANGE PASSWORD>//
+
+APP:log in//go to <CHANGE PASSWORD>//change password//go to <TICKETS>//<PRINT TICKET HISTORY>//go to <GET A REFUND FOR A TICKET>//[refund for tickets:The Legend of 1900/PARADISE CINEMA/R]
+go back to <ALL FILMS>//go to <TICKETS>//<PRINT TICKET HISTORY>//go back to <ALL FILMS>//go back to <ME>//log out//
+
+
+
+[new user account created]tmd//
+
+tmd:log in//<PRINT FILMS LIST>//<SORT BY RATINGS>//<SORT BY NAMES>//<SEARCH WITH CATEGORY>//<SEARCH WITH LEADING ROLES>//<DETAILS>//go to <BUY TICKETS> page of Leon//[buy ticket :Leon  PARADISE CINEMA   Q]go back to<HOME PAGE>//go to <TICKETS>//<PRINT TICKET HISTORY>//go to <GET A REFUND FOR A TICKET>//[refund for tickets:Leon/PARADISE CINEMA/Q]
+go back to <ALL FILMS>//go to <RECOMMENDATION>//go to <PRINT FAVORITES>//
+
+[new user account created]ZhangTR//become VIP//
+
+ZhangTR:log in//<PRINT FILMS LIST>//<SORT BY RATINGS>//<SORT BY NAMES>//<SEARCH WITH CATEGORY>//<SEARCH WITH CATEGORY>//<SEARCH WITH LEADING ROLES>//
+
+ZhangTR:log in//go to <RECOMMENDATION>//go back to <ME>//<SEARCH WITH LEADING ROLES>//<SORT BY NAMES>//<SEARCH WITH CATEGORY>//go back to<HOME PAGE>//go to <PRINT FAVORITES>//go to <TICKETS>//<PRINT TICKET HISTORY>//go to <BUY TICKET>//
+
+ZhangTR:log in//<DETAILS>//add The Legend of 1900 to <FAVORITES>//go to <BUY TICKETS> page of The Legend of 1900//<DETAILS>//go to <BUY TICKETS> page of The Legend of 1900//[buy ticket :The Legend of 1900  PARADISE CINEMA   R]go back to<HOME PAGE>//log out//
+
+
+
+ZhangTR:log in//go to <TICKETS>//go to <BUY TICKET>//[buy ticket :Leon  PARADISE CINEMA   W]
+
+ZhangTR:log in//go to <TICKETS>//go to <BUY TICKET>//
+
+ZhangTR:log in//<DETAILS>//go to <BUY TICKETS> page of The Legend of 1900//[buy ticket :The Legend of 1900  PARADISE CINEMA   P]
+
+ZhangTR:log in//go back to <ME>//go back to<HOME PAGE>//
+
+ZhangTR:log in//
+
+ZhangTR:log in//<RECOMMENDATIONS>//<PRINT FILMS LIST>//<SORT BY RATINGS>//<SORT BY NAMES>//<SEARCH WITH CATEGORY>//<SEARCH WITH CATEGORY>//<SEARCH WITH LEADING ROLES>//<SEARCH WITH CATEGORY>//<DETAILS>//close Titanic and go back to <ALL FILMS>//<RECOMMENDATIONS>//go back to<HOME PAGE>//go to <CHANGE ID>//change id to--->ZTR//
+ZTR:id changed// go to <CHANGE PASSWORD>//
+
+ZTR:log in//go to <CHANGE PASSWORD>//change password//go to <VIP>//go to <TICKETS>//<PRINT TICKET HISTORY>//go back to <ALL FILMS>//go to <PRINT FAVORITES>//go back to <ME>//log out//
+
+
+
+ZTR:log in//go to <TICKETS>//go back to <ALL FILMS>//go back to <ME>//log out//
+
+
+
+ZTR:log in//go to <TICKETS>//<PRINT TICKET HISTORY>//go to <GET A REFUND FOR A TICKET>//[refund for tickets:The Legend of 1900/PARADISE CINEMA/W]
+go back to <ALL FILMS>//
+
+ZTR:log in//go to <TICKETS>//<PRINT TICKET HISTORY>//
+
+ZTR:log in//go to <TICKETS>//<PRINT TICKET HISTORY>//
+
+ZTR:log in//go to <TICKETS>//<PRINT TICKET HISTORY>//
+
+ZTR:log in//go to <TICKETS>//<PRINT TICKET HISTORY>//go to <BUY TICKET>//
+
+ZTR:log in//go to <TICKETS>//go to <BUY TICKET>//
+
+ZTR:log in//go to <TICKETS>//<PRINT TICKET HISTORY>//go to <BUY TICKET>//
+
+ZTR:log in//go to <TICKETS>//go to <BUY TICKET>//[buy ticket :Leon  PARADISE CINEMA   Y]<PRINT TICKET HISTORY>//go to <GET A REFUND FOR A TICKET>//[refund for tickets:Leon/PARADISE CINEMA/Y]
+<PRINT TICKET HISTORY>//
+
+ZTR:log in//go to <TICKETS>//<PRINT TICKET HISTORY>//go to <BUY TICKET>//
+
+ZTR:log in//go to <TICKETS>//<PRINT TICKET HISTORY>//go to <GET A REFUND FOR A TICKET>//
+
+ZTR:log in//go to <TICKETS>//<PRINT TICKET HISTORY>//
+
+ZTR:log in//go to <TICKETS>//<PRINT TICKET HISTORY>//go to <BUY TICKET>//
+
+ZTR:log in//go to <TICKETS>//go to <BUY TICKET>//
+
+ZTR:log in//go to <TICKETS>//<PRINT TICKET HISTORY>//go back to <ALL FILMS>//go back to <ME>//<PRINT FILMS LIST>//<SORT BY RATINGS>//<SORT BY NAMES>//<SEARCH WITH CATEGORY>//<SEARCH WITH LEADING ROLES>//<RECOMMENDATIONS>//<DETAILS>//add Leon to <FAVORITES>//close Leon and go back to <ALL FILMS>//<DETAILS>//go to <BUY TICKETS> page of Leon//[buy ticket :Leon  PARADISE CINEMA  M]go back to<HOME PAGE>//go to <TICKETS>//<PRINT TICKET HISTORY>//go to <GET A REFUND FOR A TICKET>//[refund for tickets:Leon/PARADISE CINEMA/M]
+<PRINT TICKET HISTORY>//go to <GET A REFUND FOR A TICKET>//
+
+ZTR:log in//go to <VIP>//
+
+ZTR:log in//<DETAILS>//go to <BUY TICKETS> page of The Legend of 1900//[buy ticket :The Legend of 1900  PARADISE CINEMA  K]<DETAILS>//go to <BUY TICKETS> page of The Legend of 1900//[buy ticket :The Legend of 1900  STARY SKY CINEMA  H]go back to<HOME PAGE>//go to <TICKETS>//<PRINT TICKET HISTORY>//go to <BUY TICKET>//[buy ticket :Leon  MIDNIGHT CINEMA  P]go to <GET A REFUND FOR A TICKET>//[refund for tickets:The Legend of 1900/PARADISE CINEMA/K]
+<PRINT TICKET HISTORY>//go to <GET A REFUND FOR A TICKET>//[refund for tickets:The Legend of 1900/PARADISE CINEMA/H]
+<PRINT TICKET HISTORY>//go to <GET A REFUND FOR A TICKET>//
+
+ZTR:log in//go to <TICKETS>//go to <BUY TICKET>//[buy ticket :Leon  MIDNIGHT CINEMA  A]go to <BUY TICKET>//[buy ticket :Leon  MIDNIGHT CINEMA  B]go to <GET A REFUND FOR A TICKET>//
+
+ZTR:log in//go to <TICKETS>//go to <BUY TICKET>//[buy ticket :Leon  MIDNIGHT CINEMA  R]<PRINT TICKET HISTORY>//go to <GET A REFUND FOR A TICKET>//[refund for tickets:Leon/MIDNIGHT CINEMA/A]
+<PRINT TICKET HISTORY>//go to <GET A REFUND FOR A TICKET>//[refund for tickets:Leon/MIDNIGHT CINEMA/B]
+<PRINT TICKET HISTORY>//go to <GET A REFUND FOR A TICKET>//
+
+ZTR:log in//go to <TICKETS>//<PRINT TICKET HISTORY>//go to <GET A REFUND FOR A TICKET>//[refund for tickets:Leon/MIDNIGHT CINEMA/R]
+<PRINT TICKET HISTORY>//go back to <ALL FILMS>//
+
+ZTR:log in//<RECOMMENDATIONS>//<SORT BY RATINGS>//<PRINT FILMS LIST>//<SEARCH WITH CATEGORY>//<SEARCH WITH CATEGORY>//<SEARCH WITH CATEGORY>//<SEARCH WITH CATEGORY>//go back to<HOME PAGE>//go back to <ME>//<RECOMMENDATIONS>//<DETAILS>//go to <BUY TICKETS> page of Leon//[buy ticket :Leon  STARY SKY CINEMA  A]go back to<HOME PAGE>//go to <TICKETS>//<PRINT TICKET HISTORY>//go to <BUY TICKET>//[buy ticket :Leon  STARY SKY CINEMA  B]go to <BUY TICKET>//[buy ticket :Leon  MIDNIGHT CINEMA  E]<PRINT TICKET HISTORY>//go to <GET A REFUND FOR A TICKET>//
+
+ZTR:log in//go to <TICKETS>//<PRINT TICKET HISTORY>//go to <GET A REFUND FOR A TICKET>//
+
+ZTR:log in//go to <TICKETS>//go to <GET A REFUND FOR A TICKET>//
+
+ZTR:log in//go to <TICKETS>//<PRINT TICKET HISTORY>//go to <GET A REFUND FOR A TICKET>//
+
+ZTR:log in//go to <TICKETS>//<PRINT TICKET HISTORY>//go to <GET A REFUND FOR A TICKET>//[refund for tickets:Leon/STARY SKY CINEMA/A]
+go to <GET A REFUND FOR A TICKET>//
+
+ZTR:log in//go to <TICKETS>//go to <GET A REFUND FOR A TICKET>//
+
+ZTR:log in//go to <TICKETS>//<PRINT TICKET HISTORY>//go to <GET A REFUND FOR A TICKET>//
+
+ZTR:log in//go to <TICKETS>//go to <GET A REFUND FOR A TICKET>//
+
+ZTR:log in//go to <TICKETS>//go to <GET A REFUND FOR A TICKET>//
+
+ZTR:log in//go to <TICKETS>//go to <GET A REFUND FOR A TICKET>//[refund for tickets:Leon/MIDNIGHT CINEMA/B]
+go to <GET A REFUND FOR A TICKET>//[refund for tickets:Leon/MIDNIGHT CINEMA/A]
+<PRINT TICKET HISTORY>//go to <GET A REFUND FOR A TICKET>//
+
+ZTR:log in//go to <TICKETS>//go to <GET A REFUND FOR A TICKET>//[refund for tickets:Leon/MIDNIGHT CINEMA/E]
+<PRINT TICKET HISTORY>//
+
+ZTR:log in//go to <TICKETS>//<PRINT TICKET HISTORY>//go to <BUY TICKET>//[buy ticket :Leon  MIDNIGHT CINEMA  W]go to <BUY TICKET>//[buy ticket :The Legend of 1900  MIDNIGHT CINEMA  E]<PRINT TICKET HISTORY>//go to <GET A REFUND FOR A TICKET>//[refund for tickets:Leon/MIDNIGHT CINEMA/W]
+go to <GET A REFUND FOR A TICKET>//
+
+ZTR:log in//go to <TICKETS>//go to <GET A REFUND FOR A TICKET>//
+
+ZTR:log in//go to <TICKETS>//go to <GET A REFUND FOR A TICKET>//
+
+ZTR:log in//go to <TICKETS>//go to <GET A REFUND FOR A TICKET>//
+
+ZTR:log in//go to <TICKETS>//<PRINT TICKET HISTORY>//go to <GET A REFUND FOR A TICKET>//
+
+ZTR:log in//log out//
+
+
+
+[new user account created]ZHANGTIANRUO//
+
+ZHANGTIANRUO:log in//
+
+[new user account created]S//
+
+[new user account created]A//
+
+ZTR:log in//<PRINT FILMS LIST>//<SEARCH WITH CATEGORY>//<RECOMMENDATIONS>//<DETAILS>//close Leon and go back to <ALL FILMS>//<DETAILS>//close Titanic and go back to <ALL FILMS>//go back to<HOME PAGE>//go to <TICKETS>//<PRINT TICKET HISTORY>//go to <BUY TICKET>//
+
+ZTR:log in//go to <TICKETS>//go to <BUY TICKET>//[buy ticket :Leon  MIDNIGHT CINEMA  Q]<PRINT TICKET HISTORY>//go to <BUY TICKET>//
+
+ZTR:log in//go to <TICKETS>//go to <BUY TICKET>//[buy ticket :Leon  MIDNIGHT CINEMA  W]go back to <ALL FILMS>//go back to <ME>//<DETAILS>//go to <BUY TICKETS> page of The Legend of 1900//
+
+ZTR:log in//<DETAILS>//close Leon and go back to <ALL FILMS>//go back to<HOME PAGE>//go to <TICKETS>//go to <GET A REFUND FOR A TICKET>//
+
+ZTR:log in//go to <TICKETS>//<PRINT TICKET HISTORY>//go to <GET A REFUND FOR A TICKET>//[refund for tickets:Leon/MIDNIGHT CINEMA/Q]
+go to <GET A REFUND FOR A TICKET>//
+
+ZTR:log in//go to <TICKETS>//go back to <ALL FILMS>//go to <CHANGE ID>//change id to--->ZHANG//
+ZHANG:id changed// go to <CHANGE PASSWORD>//change password//go to <CHANGE ID>//change id to--->ZTR//
+ZTR:id changed// go to <VIP>//go back to <ME>//log out//
+
+
+
+ZTR:log in//log out//
+
+log out//
+
+
+
+ZTR:log in//go back to<HOME PAGE>//log out//
+
+
+
+ZTR:log in//log out//
+
+log out//
+
+
+
+ZTR:log in//log out//
+
+
+
+ZTR:log in//go to <ME PAGE>//go back to <ME>//log out//
+
+
+
+[new user account created]APP//become VIP//
+
+[new user account created]A//
+
+A:log in//go to <ME PAGE>//go to <VIP>//go to <VIP>//become VIP//
+
+[new user account created]Q//
+
+Q:log in//go to <ME PAGE>//go to <VIP>//become VIP//go to <VIP>//go back to <ME>//log out//
+
+
+
+[new user account created]W//
+
+W:log in//go to <ME PAGE>//go to <VIP>//go to <PRINT FAVORITES>//
+
+ZTR:log in//go to <ME PAGE>//go to <PRINT FAVORITES>//go back to <ME>//go to <ALL FILMS>//<DETAILS>//add Schindler's List to <FAVORITES>//close Schindler's List and go back to <ALL FILMS>//go back to<HOME PAGE>//log out//
+
+
+
+ZTR:log in//go to <ALL FILMS>//go back to<HOME PAGE>//go to <ALL FILMS>//go back to<HOME PAGE>//go to <ME PAGE>//go back to <ME>//go to <ME PAGE>//go to <TICKETS>//go back to <ALL FILMS>//go back to <ME>//log out//
+
+
+
+ZTR:log in//go to <ALL FILMS>//<PRINT FILMS LIST>//<SORT BY RATINGS>//<SORT BY NAMES>//<SEARCH WITH CATEGORY>//<SEARCH WITH CATEGORY>//
+
+ZTR:log in//go to <ALL FILMS>//<PRINT FILMS LIST>//<SORT BY RATINGS>//
+
+ZTR:log in//go to <ALL FILMS>//<SORT BY RATINGS>//<SORT BY NAMES>//<SEARCH WITH CATEGORY>//
+
+ZTR:log in//go to <ALL FILMS>//<SEARCH WITH CATEGORY>//<SEARCH WITH CATEGORY>//<SEARCH WITH LEADING ROLES>//<SEARCH WITH LEADING ROLES>//<RECOMMENDATIONS>//<DETAILS>//close The Legend of 1900 and go back to <ALL FILMS>//<DETAILS>//add Titanic to <FAVORITES>//go to <BUY TICKETS> page of Titanic//<DETAILS>//go to <BUY TICKETS> page of The Legend of 1900//
+
+ZTR:log in//go to <ALL FILMS>//<DETAILS>//go to <BUY TICKETS> page of The Legend of 1900//
+
+ZTR:log in//go to <ALL FILMS>//<DETAILS>//go to <BUY TICKETS> page of The Legend of 1900//
+
+ZTR:log in//go to <ALL FILMS>//<DETAILS>//go to <BUY TICKETS> page of The Legend of 1900//[buy ticket :The Legend of 1900  PARADISE CINEMA  NIGHT SESSION  S]go back to<HOME PAGE>//go to <ME PAGE>//go to <CHANGE ID>//change id to--->ZHANGTR//
+ZHANGTR:id changed// 
+
+ZHANGTR:log in//go to <ME PAGE>//go to <CHANGE PASSWORD>//change password//go to <VIP>//go to <PRINT FAVORITES>//
+
+ZTR:log in//go to <ME PAGE>//go to <PRINT FAVORITES>//go to <TICKETS>//<PRINT TICKET HISTORY>//go to <GET A REFUND FOR A TICKET>//
+
+[new user account created]ZHANGTR//
+
+ZHANGTR:log in//go to <ALL FILMS>//<PRINT FILMS LIST>//<SORT BY RATINGS>//<SORT BY NAMES>//<SEARCH WITH CATEGORY>//<SEARCH WITH CATEGORY>//<SEARCH WITH CATEGORY>//<SEARCH WITH LEADING ROLES>//<SEARCH WITH LEADING ROLES>//<RECOMMENDATIONS>//<DETAILS>//add The Legend of 1900 to <FAVORITES>//go to <BUY TICKETS> page of The Legend of 1900//<DETAILS>//go to <BUY TICKETS> page of The Legend of 1900//[buy ticket :The Legend of 1900  MIDNIGHT CINEMA  NIGHT SESSION  R]go back to<HOME PAGE>//go to <ME PAGE>//go to <PRINT FAVORITES>//go to <PRINT FAVORITES>//go to <VIP>//become VIP//go to <CHANGE ID>//
+
+[new user account created]S//
+
+S:log in//go to <ALL FILMS>//<PRINT FILMS LIST>//<SORT BY RATINGS>//<SORT BY NAMES>//<SEARCH WITH CATEGORY>//<SEARCH WITH CATEGORY>//<SEARCH WITH LEADING ROLES>//<SEARCH WITH LEADING ROLES>//<RECOMMENDATIONS>//<DETAILS>//
+
+S:log in//go to <ALL FILMS>//<DETAILS>//add The Legend of 1900 to <FAVORITES>//go to <BUY TICKETS> page of The Legend of 1900//<DETAILS>//go to <BUY TICKETS> page of The Legend of 1900//
+
+ZTR:log in//go to <ALL FILMS>//<PRINT FILMS LIST>//<SORT BY RATINGS>//<SORT BY NAMES>//<SEARCH WITH CATEGORY>//<SEARCH WITH LEADING ROLES>//<RECOMMENDATIONS>//<DETAILS>//go to <BUY TICKETS> page of The Legend of 1900//[buy ticket :The Legend of 1900  PARADISE CINEMA  NIGHT SESSION  X]go back to<HOME PAGE>//go to <ME PAGE>//go to <CHANGE ID>//change id to--->ZTRRR//
+ZTRRR:id changed// go to <CHANGE ID>//change id to--->ZTR//
+ZTR:id changed// go to <CHANGE PASSWORD>//change password//go to <TICKETS>//<PRINT TICKET HISTORY>//go to <GET A REFUND FOR A TICKET>//
+
+ZTR:log in//go to <ME PAGE>//go to <VIP>//go to <PRINT FAVORITES>//go to <TICKETS>//<PRINT TICKET HISTORY>//go to <GET A REFUND FOR A TICKET>//[refund for tickets:The Legend of 1900/PARADISE CINEMA/NIGHT SESSION    S]
+<PRINT TICKET HISTORY>//go to <GET A REFUND FOR A TICKET>//
+
+ZTR:log in//go to <ME PAGE>//go to <TICKETS>//go to <GET A REFUND FOR A TICKET>//
+
+ZTR:log in//go to <ME PAGE>//go to <TICKETS>//<PRINT TICKET HISTORY>//go to <GET A REFUND FOR A TICKET>//[refund for tickets:The Legend of 1900/PARADISE CINEMA/NIGHT SESSION    X]
+<PRINT TICKET HISTORY>//<PRINT TICKET HISTORY>//go to <GET A REFUND FOR A TICKET>//
+
+ZTR:log in//go to <ME PAGE>//go to <TICKETS>//go to <GET A REFUND FOR A TICKET>//
+
+ZTR:log in//go to <ME PAGE>//go to <TICKETS>//<PRINT TICKET HISTORY>//
+
+ZTR:log in//go to <ME PAGE>//go to <TICKETS>//<PRINT TICKET HISTORY>//go to <GET A REFUND FOR A TICKET>//
+
+ZTR:log in//go to <ME PAGE>//go to <TICKETS>//go to <GET A REFUND FOR A TICKET>//
+
+ZTR:log in//go to <ME PAGE>//go to <TICKETS>//go to <BUY TICKET>//[buy ticket :Titanic  PARADISE CINEMA  NIGHT SESSION  Q]<PRINT TICKET HISTORY>//go to <GET A REFUND FOR A TICKET>//
+
+ZTR:log in//go to <ME PAGE>//go to <TICKETS>//<PRINT TICKET HISTORY>//go to <GET A REFUND FOR A TICKET>//
+
+ZTR:log in//go to <ALL FILMS>//<PRINT FILMS LIST>//<DETAILS>//
+
+[new user account created]VS//
+
+VS:log in//go to <ALL FILMS>//<PRINT FILMS LIST>//
+
+[new user account created]Q//
+
+Q:log in//go to <ALL FILMS>//<PRINT FILMS LIST>//<SORT BY RATINGS>//<SORT BY NAMES>//<SEARCH WITH CATEGORY>//<SEARCH WITH CATEGORY>//<SEARCH WITH CATEGORY>//<SEARCH WITH LEADING ROLES>//<SEARCH WITH LEADING ROLES>//<RECOMMENDATIONS>//<DETAILS>//
+
+ZTR:log in//go to <ALL FILMS>//<DETAILS>//
+
+[new user account created]APPLE//
+
+APPLE:log in//go to <ALL FILMS>//<DETAILS>//go to <BUY TICKETS> page of The Legend of 1900//
+
+[new user account created]W//
+
+W:log in//go to <ALL FILMS>//<DETAILS>//close Leon and go back to <ALL FILMS>//<DETAILS>//close Titanic and go back to <ALL FILMS>//<DETAILS>//close The Legend of 1900 and go back to <ALL FILMS>//<DETAILS>//
+
+[new user account created]ANS//
+
+ANS:log in//go to <ALL FILMS>//<PRINT FILMS LIST>//<SORT BY RATINGS>//<SORT BY NAMES>//<SEARCH WITH CATEGORY>//<SEARCH WITH CATEGORY>//<SEARCH WITH CATEGORY>//<SEARCH WITH LEADING ROLES>//<SEARCH WITH LEADING ROLES>//<SEARCH WITH LEADING ROLES>//<RECOMMENDATIONS>//<DETAILS>//add The Legend of 1900 to <FAVORITES>//go back to<HOME PAGE>//go to <ME PAGE>//go to <CHANGE ID>//change id to--->ans//
+ans:id changed// go to <CHANGE PASSWORD>//change password//go to <VIP>//become VIP//go to <VIP>//go to <PRINT FAVORITES>//go to <TICKETS>//go to <BUY TICKET>//
+
+[new user account created]CS//
+
+CS:log in//go to <ALL FILMS>//<PRINT FILMS LIST>//<SORT BY RATINGS>//<SORT BY NAMES>//<SEARCH WITH CATEGORY>//<SEARCH WITH CATEGORY>//<SEARCH WITH LEADING ROLES>//<SEARCH WITH LEADING ROLES>//<RECOMMENDATIONS>//<SEARCH WITH CATEGORY>//<RECOMMENDATIONS>//<DETAILS>//
+
+[new user account created]app//
+
+app:log in//go to <ALL FILMS>//<PRINT FILMS LIST>//<SORT BY RATINGS>//<SORT BY NAMES>//<SEARCH WITH CATEGORY>//<SEARCH WITH CATEGORY>//<SEARCH WITH CATEGORY>//<SEARCH WITH LEADING ROLES>//<SEARCH WITH LEADING ROLES>//<RECOMMENDATIONS>//<DETAILS>//add The Legend of 1900 to <FAVORITES>//go back to<HOME PAGE>//go to <ME PAGE>//go to <CHANGE ID>//change id to--->zhangtianruo//
+zhangtianruo:id changed// go to <CHANGE PASSWORD>//
+
+zhangtianruo:log in//go to <ME PAGE>//go to <CHANGE PASSWORD>//change password//go to <VIP>//become VIP//go to <VIP>//go to <PRINT FAVORITES>//go to <TICKETS>//go to <BUY TICKET>//
+
+zhangtianruo:log in//go to <ME PAGE>//go to <TICKETS>//go to <BUY TICKET>//
+
+[new user account created]A//
+
+A:log in//go to <ME PAGE>//go to <CHANGE ID>//change id to--->AAA//
+AAA:id changed// go to <CHANGE PASSWORD>//change password//go to <TICKETS>//go to <BUY TICKET>//[buy ticket :Leon  PARADISE CINEMA  NIGHT SESSION  M]go back to <ALL FILMS>//go back to <ME>//go to <ALL FILMS>//<PRINT FILMS LIST>//<SORT BY RATINGS>//<SORT BY NAMES>//<SEARCH WITH CATEGORY>//<SEARCH WITH CATEGORY>//<SEARCH WITH CATEGORY>//<SEARCH WITH LEADING ROLES>//<SEARCH WITH LEADING ROLES>//<RECOMMENDATIONS>//<DETAILS>//add The Legend of 1900 to <FAVORITES>//<DETAILS>//go to <BUY TICKETS> page of The Legend of 1900//[buy ticket :The Legend of 1900  PARADISE CINEMA  NIGHT SESSION  S]go back to<HOME PAGE>//go to <ME PAGE>//go to <PRINT FAVORITES>//go to <TICKETS>//<PRINT TICKET HISTORY>//go to <GET A REFUND FOR A TICKET>//
+
+AAA:log in//go to <ME PAGE>//go to <TICKETS>//go to <GET A REFUND FOR A TICKET>//[refund for tickets:Leon/PARADISE CINEMA/NIGHT SESSION    M]
+<PRINT TICKET HISTORY>//go to <GET A REFUND FOR A TICKET>//[refund for tickets:The Legend of 1900/PARADISE CINEMA/NIGHT SESSION    S]
+<PRINT TICKET HISTORY>//go back to <ALL FILMS>//go back to <ME>//log out//
+
+
+
+[new user account created]qq//
+
+qq:log in//go to <ME PAGE>//go to <CHANGE ID>//change id to--->QQ//
+QQ:id changed// go to <CHANGE PASSWORD>//change password//
