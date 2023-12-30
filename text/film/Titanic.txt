@@ -1,0 +1,22 @@
+Titanic
+pictures/Film/Titanic.png
+James Cameron
+Leonardo DiCaprio/Kate Winslet
+USA
+1997
+feature/romance/catastrophy
+1998
+Based on the sinking of the Titanic during its maiden voyage in 1912, the film tells the touching story of two people at different levels, poor painter Jack and noble female Ruth, who abandon secular prejudice and fall in love. Finally, Jack gives Ruth the chance to survive.
+9.4
+25/A CDEFGHI K MNOPQRSTUVWXY
+25/ABCDEFGHIJKLMNO QRSTUV XY
+25/ABCDEFGHIJKLMNO Q STU  XY
+25/A CDEFGHIJKLMNOPQRSTUVWXY
+25/ABCDEFGHIJKLMNO QRSTUV XY
+25/ABCDEF HIJKLMNO Q STU  XY
+25/A CDEFGHIJKLMNOPQRSTUVWXY
+25/ABCDEFG IJKLMNO QRSTUV XY
+25/ABCD  GHIJKLMNO Q STU  XY
+25/A CD   HIJKLMNOPQRSTUVWXY
+25/ABCDEFGHIJKLMNO QRSTUV XY
+25/ABCDE    JK   O   STU  XY

@@ -1,0 +1,7 @@
+feature/romance/comedy/
+zhangtianruo/Leonardo DiCaprio/
+The Legend of 1900/
+[1/Leon    PARADISE CINEMA    NIGHT SESSION    M]
+[1/The Legend of 1900    PARADISE CINEMA    NIGHT SESSION    S]
+[0/Leon    PARADISE CINEMA    NIGHT SESSION    M]
+[0/The Legend of 1900    PARADISE CINEMA    NIGHT SESSION    S]
