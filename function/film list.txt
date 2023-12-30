@@ -1,0 +1,7 @@
+Leon/9.4/y//
+Titanic/9.4/y//
+The Legend of 1900/9.3/y//
+Schindler's List/9.6/y//
+Les choristes/9.3/n//
+Inception/9.3/n//
+cs/8.0/y//
