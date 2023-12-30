@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{DEBD94B6-0935-4500-B04D-3CF92A752DF3}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <RootNamespace>My2021012982程设大作业</RootNamespace>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v110</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v110</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LinkIncremental>false</LinkIncremental>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="add history.cpp" />
+    <ClCompile Include="administer add new film.cpp" />
+    <ClCompile Include="administer delete film.cpp" />
+    <ClCompile Include="administer edit details.cpp" />
+    <ClCompile Include="administer film if_on.cpp" />
+    <ClCompile Include="{administer edit film info page}.cpp" />
+    <ClCompile Include="administer set ticket.cpp" />
+    <ClCompile Include="{administer user info page}.cpp" />
+    <ClCompile Include="administer login page.cpp" />
+    <ClCompile Include="check if favorites.cpp" />
+    <ClCompile Include="recommend.cpp" />
+    <ClCompile Include="[choose button].cpp" />
+    <ClCompile Include="edit cinema seat.cpp" />
+    <ClCompile Include="print cinema seat.cpp" />
+    <ClCompile Include="[click button].cpp" />
+    <ClCompile Include="film details.cpp" />
+    <ClCompile Include="add to favorites.cpp" />
+    <ClCompile Include="print ticket info.cpp" />
+    <ClCompile Include="print favorites.cpp" />
+    <ClCompile Include="read film detailed info.cpp" />
+    <ClCompile Include="read film list.cpp" />
+    <ClCompile Include="{home page}.cpp" />
+    <ClCompile Include="{user me page}.cpp" />
+    <ClCompile Include="new user.cpp" />
+    <ClCompile Include="print user history.cpp" />
+    <ClCompile Include="print user list.cpp" />
+    <ClCompile Include="{user buy ticket page}.cpp" />
+    <ClCompile Include="ticket refund.cpp" />
+    <ClCompile Include="user change id.cpp" />
+    <ClCompile Include="user change pswd.cpp" />
+    <ClCompile Include="{user film page}.cpp" />
+    <ClCompile Include="user search with category.cpp" />
+    <ClCompile Include="user search with leading roles.cpp" />
+    <ClCompile Include="{user ticket info page}.cpp" />
+    <ClCompile Include="user if_account.cpp" />
+    <ClCompile Include="user straightly login.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="launch screen.cpp" />
+    <ClCompile Include="vip.cpp" />
+    <ClCompile Include="[cat].cpp" />
+    <ClCompile Include="[read file].cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Header.h" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>
